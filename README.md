@@ -48,3 +48,9 @@ Post compilation, an executable names ```server``` will be created in the ```src
 - Then commit your changes to this forked repository.
 - To create a pull request go to the main repository and click on the pull request option.
 - Kindly only submit your pull requests to the branch **student-pull-requests** only. We won't entertain pull requests to master branch.
+
+
+## What we did in the Project ? 
+- basic commands : `report.md` [click here](https://github.com/JabadeSusheelKrishna/SimpleRA-RDBMS/blob/main/Report.md)
+- sorting and grouping : `report2.md` [click here](https://github.com/JabadeSusheelKrishna/SimpleRA-RDBMS/blob/main/Report2.md)
+- indexing and other basic operations : `report3.md` [click here](https://github.com/JabadeSusheelKrishna/SimpleRA-RDBMS/blob/main/Report3.md)
